@@ -5,6 +5,7 @@
 ### Vendredi 17/09/2021
 
 
+<<<<<<< HEAD
 * [x] Créer son premier repo Github
 * [x] Faire ses première manipulations de versionning (init, push, add, commit, status, pull)
 * [x] Découverte du Markdown : 
@@ -25,8 +26,8 @@
   * [x] Terminal (fenêtres, onglets, commandes)
 * [x] Commencer la rédaction en Markdown de ses cheat sheets dans un repo créé pour l'occasion
 
-
-
 ### Optionnel pour apprendre le terminal Linux / Mac : 
 
+<<<<<<< HEAD
 * [x] Faire le wargame bandit jusqu'au niveau 5 (anglais)
+
