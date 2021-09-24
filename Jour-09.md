@@ -24,7 +24,7 @@
 
 ### Algo : 
 
-  * [ ] Comprendre l'utilité des algorithmes de tri
+  * [x] Comprendre l'utilité des algorithmes de tri
   * [ ] Découvrir le tri par insertion (Insertion Sort)
 
 
