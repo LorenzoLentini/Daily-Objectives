@@ -8,17 +8,17 @@
 
 * [x] Savoir se documenter (MDN)
 * [x] Découverte de la sainte trinité du web (HTML, CSS et JS)
-  * [ ] Comprendre les différences et rôle de chacun
+  * [x] Comprendre les différences et rôle de chacun
 * [x] Découvrir les bases de HTML :
   * [x] Comprendre la structure de base HTML et la syntaxe
   * [x] Découvrir les principaux tags HTML et comprendre leur utilité
   * [x] Savoir architecturer une page HTML basique
-  * [ ] Comprendre le fonctionnement des attributs en HTML
-  * [ ] Savoir commenter dans une page HTML
+  * [x] Comprendre le fonctionnement des attributs en HTML
+  * [x] Savoir commenter dans une page HTML
   * [x] Découvrir le principe de parents/enfants
-  * [ ] Découvrir le HTML5 sémantique
-* [ ] Comprendre la différence entre les liens relatifs et liens absolus
-* [ ] Créer sa première page HTML (voir brief CV)
+  * [x] Découvrir le HTML5 sémantique
+* [x] Comprendre la différence entre les liens relatifs et liens absolus
+* [x] Créer sa première page HTML (voir brief CV)
 
 
 ## Javascript : 

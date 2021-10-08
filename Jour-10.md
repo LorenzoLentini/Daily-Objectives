@@ -17,7 +17,7 @@
 
  * [x] Comprendre  le fonctionnement de `alert`, `prompt` et https://fr.javascript.info/alert-prompt-confirm
   * [x] Comprendre les conversion de types en Javascript (http://fr.javascript.info/type-conversions)
-    * [ ] Faire l'exercice / Analyser ses erreurs
+    * [x] Faire l'exercice / Analyser ses erreurs
 
 
 ### Algo : 
